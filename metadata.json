@@ -1,0 +1,7 @@
+{
+  "name": "SK-G Automação - Consultor Técnico - Atualizado",
+  "description": "Assistente técnico inteligente para transcodificação competitiva e identificação por imagem de produtos Camozzi, SMC e Festo.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
